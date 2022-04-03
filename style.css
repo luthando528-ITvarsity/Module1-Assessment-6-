@@ -1,0 +1,60 @@
+.gallery img{
+    width: 20%;
+}
+h1{font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration-style: wavy;
+    font-size: 30px;
+    color: brown;
+    font-style: var(100%);
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration-style: wavy;
+    font-size: 30px;
+    color: red;
+    font-style: oblique;
+}
+
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-decoration: wavy;
+    color: blue;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: var(color);
+    color: orangered;
+
+}
+
+#menu{
+    width: 100%;
+    height: 35px;
+    background-color: aqua;
+    padding-top: 12px;
+}
+
+#menu a{
+    color: darkred;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+#menu a:hover{
+    color: #5077bd;
+}
+
+button{
+    background-color: aqua;
+    border-radius: 5px;
+    font-style: oblique;
+    color: red;
+}
